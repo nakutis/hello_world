@@ -5,11 +5,7 @@
     double num = Math.random();
     if (num > 0.5) {
   %>
-<<<<<<< HEAD
-      <h2>Numer is above avarage</h2><p>(<%= num %>)</p>
-=======
-      <h2>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!</h2><p>(<%= num %>)</p>
->>>>>>> 5561dcf817ce19186d5eb0ee6fd6a2c08177d2d5
+      <h2>Number is above++++</h2><p>(<%= num %>)</p>
   <%
     } else {
   %>
