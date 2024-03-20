@@ -5,7 +5,7 @@
     double num = Math.random();
     if (num > 0.5) {
   %>
-      <h2>Number is high</h2><p>(<%= num %>)</p>
+      <h2>Snoop Dogg</h2><p>(<%= num %>)</p>
   <%
     } else {
   %>
